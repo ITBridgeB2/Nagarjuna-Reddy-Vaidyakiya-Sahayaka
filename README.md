@@ -49,10 +49,4 @@ Start backend server:
 node server.js
 
 
-you can watch demo video with this link : https://drive.google.com/drive/folders/105JMenGP-eb5yyBXGoxKbiyxsGjilkUd?usp=sharing
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 9d2d634 (Create README.md)
